@@ -12,7 +12,7 @@ layout: default
 
 | Tujuan | *Quik Vending Machine Refill* |
 | --- | ----------- |
-| Tarikh | "hari tersebut" |
+| Tarikh | "13Feb / 20Feb" |
 | Masa | "masa masuk" |
 | Nama | "nama kamu" |
 
