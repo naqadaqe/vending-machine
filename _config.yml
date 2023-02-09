@@ -5,4 +5,4 @@ description: >- # My Site Description
   
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: tactile
